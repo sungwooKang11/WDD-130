@@ -1,0 +1,49 @@
+* {
+    text-align: center;
+}
+
+body {
+    background-color: #5ca0d7;
+}
+
+.title {
+    color: #fff;
+}
+.title:hover {
+    color: #000;
+}
+
+.upperp {
+    color: #fff;
+}
+
+.subtitle {
+    color: #fff;
+}
+
+ol {
+    padding: 0;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+li {
+    list-style: none;
+    text-align: start;
+    margin: 0 auto;
+    width: fit-content;
+}
+
+img {
+    width: 300px;
+}
+
+blockquote {
+    font-size: 30px;
+    color: #fff;
+}
+
+.footer {
+    font-weight: 600;
+    margin: 0;
+}
