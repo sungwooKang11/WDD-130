@@ -29,11 +29,17 @@ body {
 
 header {
     background-color: var(--nav-background-color);
+    text-align: center;
 }
 
 #content {
     max-width: 1600px;
     margin: 0 auto;
+    text-align: center;
+}
+
+.logo {
+    width: 80px;
 }
 
 nav a {
@@ -65,6 +71,7 @@ h4 {
 .book {
     background-color: var(--accent1-color);
     color: var(--paragraph-color-on-color);
+    text-decoration: none;
 }
 .book:hover {
     background-color: var(--accent2-color);
@@ -98,6 +105,8 @@ main section {
 .join {
     background-color: var(--accent1-color);
     color: var(--paragraph-color-on-color);
+    text-decoration: none;
+
 }
 .join:hover {
     background-color: var(--accent2-color);
