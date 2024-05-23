@@ -8,21 +8,21 @@ body {
 }
 
 .upper {
-    width: 1280px;
+    width: 100%;
+    height: 550px;
 }
 
 .greybox {
-    width: 1280px;
-    height: 440px;
+    width: 100%;
+    height: 400px;
     background-color: #707070;
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
 }
 
 .greybox img {
     width: 270px;
     height: 270px;
+    margin-inline: 50px;
+    margin-top: 50px;
     border-radius: 50%;
     border: 10px solid #444;
 }
