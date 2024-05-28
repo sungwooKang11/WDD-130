@@ -18,7 +18,7 @@ body {
     background-color: #707070;
 }
 
-.greybox img {
+.circle {
     width: 270px;
     height: 270px;
     margin-inline: 50px;
@@ -26,3 +26,4 @@ body {
     border-radius: 50%;
     border: 10px solid #444;
 }
+
